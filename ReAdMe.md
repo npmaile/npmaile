@@ -7,6 +7,8 @@ neovim config connoisseur
 
 [master web designer](https://npmaile.com)
 
+Proud [get-moneyist](https://getmoneyism.org)
+
 go engineer
 
 student of rust
